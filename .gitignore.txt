@@ -1,0 +1,23 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.env
+
+# Virtual Environment
+venv/
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Excel files
+*.xlsx
+*.xls
+
+# Ignore other temp files
+.DS_Store
