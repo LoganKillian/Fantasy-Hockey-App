@@ -21,3 +21,6 @@ docker-compose.override.yml
 
 # Ignore other temp files
 .DS_Store
+
+# Ignore database files
+*.db
