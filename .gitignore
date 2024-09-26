@@ -24,3 +24,11 @@ docker-compose.override.yml
 
 # Ignore database files
 *.db
+
+#Ignore Java files
+/backend/fantasy-rink/fantasy-rink/target
+/backend/fantasy-rink/fantasy-rink/.mvn/
+/backend/fantasy-rink/fantasy-rink/.classpath
+/backend/fantasy-rink/fantasy-rink/.project
+/backend/fantasy-rink/fantasy-rink/.settings/
+/backend/fantasy-rink/fantasy-rink/build
